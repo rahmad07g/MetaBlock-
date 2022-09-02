@@ -17,9 +17,9 @@ By [Rahmad Gunawan](https://www.linkedin.com/in/ragunnn/) and [Suhardiman](https
 
 The dataset Metaverse Crypto Tokens Historical data, Top leading and buzzing metaverse tokens
 
-**MetaBlock!** adalah sebuah aplikasi sistem rekomendasi trading aset kripto untuk token Metaverse, berdasarkan profile resiko user (Low, Medium, High)..
+**MetaBlock!** is a crypto asset trading recommendation system application for Metaverse tokens, based on the user's risk profile (Low, Medium, High).
 
-## Latar Belakang
+## Introduction
 
 Our app provides AI-based recommendation system to invest in metaversal tokens. Problems that we are trying to solve include:
 Metaversal token has high volatility and AI may help in managing investment risk
@@ -27,7 +27,7 @@ There are hundreds of metaversal tokens in the market and it is difficult to kee
 
 There are a high degree of frauds occurring in the metaverse. We help you select tokens that have lower risk
 
-## Demo Aplikasi
+## Application Demo
 
 <p align="center">
   <img src="Tampilan-Awal.jpg" width=700 align="center">
@@ -35,7 +35,7 @@ There are a high degree of frauds occurring in the metaverse. We help you select
 </p>
 
 <p align="center">
-  Tampilan dari laman beranda
+  Homepage menu 
 </p>
 
 <p align="center">
@@ -44,13 +44,15 @@ There are a high degree of frauds occurring in the metaverse. We help you select
 </p>
 
 <p align="center">
-  Tampilan dari laman beranda
+  Homepage menu 
 </p>
 
 ---
-Untuk menggunakan aplikasi cukup mudah, terdapat 3 navigation page yaotu 'Home', 'Profile Risk' dan 'Rekomendasi Aset Kripto’ Pada page Home , user dapat mengetahui harga token/coin crypto, hingga saat ini kami masih menggunakan API Binance, jadi bukan hanya token metaverse namun juga terdapat beberapa koin lainnya seperti BTC,ETH,dll 
-Kemudian pada Page Profile Risk user akan diarahkan untuk mengisi profile risk user, dimana terdapat beberapa pertanyaan yang harus diisi oleh user.
-Tujuan dari mengisi profile risk adalah untuk mengidentifikasi risk profile user, apakah tergolong dalam kategori rendah,med,tinggi, setelah mengetahui risk profile user tersebut, kita dapat mengetahui koin/token apa saja yang cocok/sesuai dengan risk profile user tersebut. Sehingga user akan lebih nyaman dalam bertransaksi dan kemudian akan mengetahui bagaimana profile risk user tersebut, dan terakhir adalah page Rekomendasi Aset Kripto, dimana user akan diberikan beberapa token yang sesuai dengan profile risk user tersebut.
+Using the application is quite easy, there are 3 navigation pages namely 'Home', 'Profile Risk', and 'Crypto Asset Recommendation' On the Home page, users can find out the price of crypto tokens/coins until now we are still using the Binance API, so it's not just metaverse token but there are also several other coins such as BTC, ETH, etc
+
+Then on the Risk Profile Page, the user will be directed to fill in the user's risk profile, where several questions must be filled in by the user.
+
+The purpose of filling in the risk profile is to identify the user's risk profile, whether it is classified as low, med, or high, after knowing the user's risk profile, we can find out which coins/tokens are suitable/according to the user's risk profile. So that the user will be more comfortable in transacting and then will know how the user's risk profile is, and finally the Crypto Asset Recommendation page, where the user will be given several tokens that match the user's risk profile.
 
 <p align="center">
   <img src="Profile-Risk.jpg" width=700 align="center">
@@ -58,7 +60,7 @@ Tujuan dari mengisi profile risk adalah untuk mengidentifikasi risk profile user
 </p>
 
 <p align="center">
-  Tampilan dari laman Profile Risk
+  Profile Risk Page
 </p>
 
 <p align="center">
@@ -67,7 +69,7 @@ Tujuan dari mengisi profile risk adalah untuk mengidentifikasi risk profile user
 </p>
 
 <p align="center">
-  Tampilan dari laman Profile Risk
+  Profile Risk Page
 </p>
 
 ---
@@ -77,7 +79,7 @@ Tujuan dari mengisi profile risk adalah untuk mengidentifikasi risk profile user
 </p>
 
 <p align="center">
-  Tampilan dari laman skema Rekomendasi Aset
+  Asset Recommendation Page
 </p>
 
 
