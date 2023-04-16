@@ -1,0 +1,8 @@
+waitress
+pandas
+scikit-learn==1.0.2
+flask
+schedule
+requests
+numpy
+datetime
